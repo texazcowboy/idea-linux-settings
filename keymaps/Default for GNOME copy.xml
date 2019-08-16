@@ -5,10 +5,14 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateGradleToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt 5" />
   </action>
   <action id="SaveAll" />
   <action id="SelectInProjectView">
