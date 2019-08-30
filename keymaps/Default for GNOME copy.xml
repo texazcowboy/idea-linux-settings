@@ -1,9 +1,12 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="ActivateBuildToolWindow">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="ActivateDebugToolWindow">
-    <keyboard-shortcut first-keystroke="alt 4" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
@@ -11,8 +14,14 @@
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="ActivateRunToolWindow" />
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt 5" />
+  </action>
+  <action id="ExternalSystem.RefreshAllProjects">
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="SaveAll" />
   <action id="SelectInProjectView">
