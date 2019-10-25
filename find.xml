@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\common-core\src\main\java\com\abcfinancial\api\common\configuration\ObjectMapperConfiguration.java [platform.common-core.main]'" />
-    <option name="defaultScopeName" value="File '...\common-core\src\main\java\com\abcfinancial\api\common\configuration\ObjectMapperConfiguration.java [platform.common-core.main]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\common-core\src\main\java\com\abcfinancial\api\common\configuration\ObjectMapperConfiguration.java [platform.common-core.main]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
