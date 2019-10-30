@@ -23,6 +23,9 @@
   <action id="ExternalSystem.RefreshAllProjects">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="Github.Open.In.Browser">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="SaveAll" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="ctrl s" />
