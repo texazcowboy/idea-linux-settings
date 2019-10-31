@@ -13,7 +13,9 @@
   <action id="ActivateGradleToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
-  <action id="ActivateRunToolWindow" />
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
@@ -22,6 +24,9 @@
   </action>
   <action id="ExternalSystem.RefreshAllProjects">
     <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="Github.Open.In.Browser">
+    <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="SaveAll" />
   <action id="SelectInProjectView">
