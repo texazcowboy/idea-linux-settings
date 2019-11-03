@@ -6,6 +6,10 @@
           <option name="url" value="http://git.exadel.com" />
           <option name="userName" value="avarashen" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="voroshen.av@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
