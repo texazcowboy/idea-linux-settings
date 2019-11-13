@@ -42,4 +42,7 @@
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
   </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
 </keymap>
