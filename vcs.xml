@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/dirvuk/clouds_grsu_lab6.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/firebase/friendlychat-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Andrei\Google Drive\7 сем\Инфраструктура и сервисы облачных технологий\lab 6" />
