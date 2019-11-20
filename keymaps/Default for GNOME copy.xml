@@ -22,6 +22,9 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt 5" />
   </action>
+  <action id="CompareClipboardWithSelection">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="ExternalSystem.RefreshAllProjects">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
