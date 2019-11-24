@@ -31,6 +31,9 @@
   <action id="Github.Open.In.Browser">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="Maven.Reimport">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="SaveAll" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="ctrl s" />
