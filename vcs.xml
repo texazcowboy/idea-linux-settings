@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/AndrewVoroshen/feeder-be.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AndrewVoroshen/map-spot-info-hunter-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Andrei\Documents\Projects" />
