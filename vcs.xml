@@ -15,8 +15,8 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server.git" />
-          <option name="userName" value="" />
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="voroshen.av@gmail.com" />
         </UrlAndUserName>
       </list>
     </option>
