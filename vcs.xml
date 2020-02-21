@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/texazcowboy/feeder.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/abcfinancial2/platform-collection-mail.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\avarashen\Documents" />
