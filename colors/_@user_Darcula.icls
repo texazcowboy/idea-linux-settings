@@ -3,13 +3,14 @@
     <property name="created">2019-08-15T19:02:40</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-08-15T20:13:23</property>
+    <property name="modified">2020-04-04T22:13:21</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
     <option name="PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c6697b" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
