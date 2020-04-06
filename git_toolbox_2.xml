@@ -22,7 +22,6 @@
     <option name="showBlameWidget" value="false" />
     <option name="showChangesInStatusBar" value="false" />
     <option name="showEditorInlineBlame" value="false" />
-    <option name="showProjectViewStatus" value="false" />
     <option name="showStatusWidget" value="false" />
   </component>
 </application>
