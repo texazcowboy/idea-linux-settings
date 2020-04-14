@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="collection-mail-temp-file" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
