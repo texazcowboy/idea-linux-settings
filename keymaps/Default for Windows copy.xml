@@ -5,6 +5,9 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateGradleToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
