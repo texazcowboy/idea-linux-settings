@@ -1,5 +1,24 @@
 <application>
   <component name="GitToolBoxAppSettings2">
+    <option name="decorationParts">
+      <list>
+        <DecorationPartConfig>
+          <option name="prefix" value="- " />
+          <option name="type" value="LOCATION" />
+        </DecorationPartConfig>
+        <DecorationPartConfig>
+          <option name="type" value="BRANCH" />
+        </DecorationPartConfig>
+        <DecorationPartConfig>
+          <option name="type" value="STATUS" />
+        </DecorationPartConfig>
+        <DecorationPartConfig>
+          <option name="postfix" value=")" />
+          <option name="prefix" value="(" />
+          <option name="type" value="TAGS_ON_HEAD" />
+        </DecorationPartConfig>
+      </list>
+    </option>
     <option name="previousVersionMigrated" value="true" />
     <option name="showBlameWidget" value="false" />
     <option name="showChangesInStatusBar" value="false" />
