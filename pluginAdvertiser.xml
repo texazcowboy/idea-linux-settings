@@ -536,6 +536,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.gohtml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.go-template" />
+              <option name="myPluginName" value="Go Template" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.gradle">
           <value>
             <plugin>
