@@ -55,4 +55,5 @@
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
+  <action id="Vcs.ToggleAmendCommitMode" />
 </keymap>
