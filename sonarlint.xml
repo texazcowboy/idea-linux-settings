@@ -1,7 +1,0 @@
-<application>
-  <component name="SonarLintGlobalSettings">
-    <option name="autoTrigger" value="false" />
-    <option name="nodejsPath" value="" />
-    <rules />
-  </component>
-</application>
