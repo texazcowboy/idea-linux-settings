@@ -1,0 +1,48 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="ActivateBuildToolWindow">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="ActivateServicesToolWindow">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt 5" />
+  </action>
+  <action id="Github.Open.In.Browser">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="SaveAll" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="ShowRecentTests" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="ctrl alt released f10" />
+  </action>
+</keymap>
