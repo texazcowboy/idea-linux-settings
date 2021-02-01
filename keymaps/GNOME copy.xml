@@ -1,4 +1,4 @@
-<keymap version="1" name="Default for Windows copy" parent="$default">
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
   <action id="ActivateBuildToolWindow">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
@@ -9,13 +9,8 @@
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateGradleToolWindow">
-    <keyboard-shortcut first-keystroke="alt 3" />
-  </action>
-  <action id="ActivateMavenToolWindow">
-    <keyboard-shortcut first-keystroke="alt 4" />
-  </action>
   <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="ActivateServicesToolWindow">
@@ -26,10 +21,6 @@
   </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt 5" />
-  </action>
-  <action id="Compile" />
-  <action id="DebugClass">
-    <keyboard-shortcut first-keystroke="shift ctrl f9" />
   </action>
   <action id="ExpressionTypeInfo" />
   <action id="Github.Open.In.Browser">
@@ -49,10 +40,13 @@
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
-  <action id="Unsplit">
+  <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="ctrl alt released f10" />
   </action>
 </keymap>
