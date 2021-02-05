@@ -22,23 +22,13 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt 5" />
   </action>
-  <action id="Back">
-    <keyboard-shortcut first-keystroke="shift ctrl left" />
-  </action>
-  <action id="EditorNextWordWithSelection" />
-  <action id="EditorPreviousWordWithSelection" />
   <action id="ExpressionTypeInfo" />
-  <action id="Forward">
-    <keyboard-shortcut first-keystroke="shift ctrl right" />
-  </action>
   <action id="Github.Open.In.Browser">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
-  <action id="ResizeToolWindowLeft" />
-  <action id="ResizeToolWindowRight" />
   <action id="SaveAll" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="ctrl s" />
