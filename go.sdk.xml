@@ -3,6 +3,7 @@
     <sdk-url>
       <set>
         <option value="file:///usr/local/go" />
+        <option value="file:///usr/local/go-distros/go1.15.5" />
       </set>
     </sdk-url>
   </component>
